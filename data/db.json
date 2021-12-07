@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "1st blog",
+      "author": "yoshi",
+      "body": "body of 1st blod ",
+      "id": 1
+    },
+    {
+      "title": "2nd blog",
+      "author": "mario",
+      "body": "body of 2nd ",
+      "id": 2
+    },
+    {
+      "title": "3rd blog",
+      "author": "mario",
+      "body": "this is 3rd blog",
+      "id": 3
+    },
+    {
+      "title": "blog 4",
+      "author": "yoshi",
+      "body": "blog 4 body",
+      "id": 4
+    },
+    {
+      "title": "blog 5",
+      "author": "yoshi",
+      "body": "blog 5 body\n",
+      "id": 5
+    }
+  ]
+}
